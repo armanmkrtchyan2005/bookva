@@ -1,0 +1,26 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.registration_container {
+  width: 100%;
+}
+
+.registration_container h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #000;
+  font-size: 60px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.registration {
+  display: flex;
+  flex-direction: column;
+}
